@@ -109,6 +109,8 @@ Changes since v2.10.3
   instead of "n" for consistency with `magit-push-popup' and
   `magit-rebase-popup'.  #3144
 
+* TODO `magit-browse-pull-request'
+
 Fixes since v2.10.3
 -------------------
 
